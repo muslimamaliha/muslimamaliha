@@ -22,8 +22,10 @@ and learning progress.
   - Desktop-based quiz application
   - Built using Java and JavaFX
   - Basic database connectivity using MySQL
+  - https://github.com/muslimamaliha/ID-IT23028/tree/main/QuizApp/QuizApp
 
 - **Student Management System**
+- https://github.com/muslimamaliha/maliha_ID23028
   
 ---
 
