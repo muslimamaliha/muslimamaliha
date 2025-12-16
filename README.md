@@ -25,7 +25,7 @@ and learning progress.
   - https://github.com/muslimamaliha/ID-IT23028/tree/main/QuizApp/QuizApp
 
 - **Student Management System**
-- https://github.com/muslimamaliha/maliha_ID23028
+  https://github.com/muslimamaliha/maliha_ID23028
   
 ---
 
@@ -39,8 +39,8 @@ and learning progress.
 ---
 
 ## 🔹 Courses & Learning
-- IBM Cognitive Class – Python Basics
-- IBM Cognitive Class – Introduction to Data Science
+- IBM Cognitive Class – SQL and Relational Databases 101
+- https://www.geeksforgeeks.org/java/javafx-tutorial/
 
 ---
 
